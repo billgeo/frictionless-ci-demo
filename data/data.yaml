@@ -47,7 +47,7 @@ resources:
         - name: material_type
           type: string
         - name: r-value
-          type: decimal
+          type: number
         - name: gem_name
           type: string
         - name: zone_1-2_total_fill_between_truss
