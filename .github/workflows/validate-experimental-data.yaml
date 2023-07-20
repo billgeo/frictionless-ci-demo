@@ -1,4 +1,4 @@
-name: experimental
+name: validate experimental data
 
 on:
   push:

@@ -1,2 +1,4 @@
 tasks:
   - path: data/valid.csv
+  - path: data/ceiling-insulation-whitelist.csv
+

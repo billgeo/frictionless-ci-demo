@@ -1,4 +1,4 @@
-name: frictionless
+name: validate data
 
 on:
   push:
