@@ -1,4 +1,4 @@
 tasks:
-  - path: data/valid.csv
-  - path: data/ceiling-insulation-whitelist.csv
+  - resource: data/valid.json
+  - resource: data/ceiling-insulation-whitelist.yaml
 
