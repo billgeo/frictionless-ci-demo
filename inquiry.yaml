@@ -1,4 +1,5 @@
 tasks:
   - resource: data/valid.json
+  - resource: data/invalid.json
   - resource: data/ceiling-insulation-whitelist.yaml
 
