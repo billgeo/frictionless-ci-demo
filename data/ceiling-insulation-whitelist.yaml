@@ -1,0 +1,35 @@
+  encoding: utf-8
+  format: csv
+  hashing: md5
+  name: ceiling-insulation-whitelist
+  path: ceiling-insulation-whitelist.csv
+  profile: tabular-data-resource
+  schema:
+    fields:
+      - name: manufacturer
+        type: string
+      - name: brand_name
+        type: string
+      - name: product_type
+        type: string
+      - name: material_type
+        type: string
+      - name: r-value
+        type: number
+      - name: gem_name
+        type: string
+      - name: zone_1-2_total_fill_between_truss
+        type: string
+      - name: zone_1-2_total_fill_over_truss
+        type: string
+      - name: zone_1-2_top-up_fill_over_truss
+        type: string
+      - name: zone_3_total_fill_between_truss
+        type: string
+      - name: zone_3_total_fill_over_truss
+        type: string
+      - name: zone_3_top-up_fill_over_truss
+        type: string
+      - name: comments
+        type: string
+  scheme: file
